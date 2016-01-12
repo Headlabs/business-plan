@@ -1,4 +1,4 @@
 # business-plan
 A repo for the business plan of Headlabs.
 
-The actual business plan is in the /business-plan dir and the references are in the /references dir.
+The actual business plan is in the ![/business-plan](/business-plan) and the references are in ![/references](/references).
