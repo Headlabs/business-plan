@@ -3,7 +3,7 @@ A repo for the business plan of Headlabs.
 
 The actual business plan is in the [/business-plan](/business-plan) and the references are in [/references](/references).
 
-To Do:
+To Do:  
 - [ ] Executive Summary  
 - [ ] Business Concept  
 - [ ] Financing Needs  
