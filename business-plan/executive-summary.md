@@ -9,4 +9,4 @@ Headlabs is in the process of being formed as a corporation co-owned and operate
 * An initial financial analysis of the viability of this venture shows outstanding promise and results. Several sources note that the computer consulting business is easy to start, requires little up-front capital, and has the potential to be quite lucrative in today's high tech world.  
 
 
-In conclusion, as shown in the highlights chart below, this plan projects rapid growth and high net profits over the next three years. Implementing this plan, in conjunction with a comprehensive and detailed marketing plan, will ensure that Calico Computer Consulting rapidly becomes a profitable venture for the owner.
+In conclusion, this plan projects rapid growth and high net profits over the next five years. Implementing this plan, in conjunction with a comprehensive and detailed marketing plan, will ensure that Headlabs rapidly becomes a profitable venture for the owners.
