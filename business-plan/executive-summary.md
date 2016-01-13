@@ -16,8 +16,8 @@ In conclusion, this plan projects rapid growth and high net profits over the nex
 1. The intended audience is the owner of this business only; this plan is not intended to obtain financing from outside sources.
 2. The scope of this plan is to provide detailed monthly projections for the current plan year, and yearly summaries for the following two years.
 
-### The objectives of Calico Computer Consulting are: ###
+### The objectives of Headlabs are: ###
 1. __Profit__ - To generate sufficient profit to finance future growth and to provide the resources needed to achieve the other objectives of the company and its owner. (Net profit of at least 45% of sales in first year).
-Growth - To grow the business at a rate that is both challenging and manageable, leading the market with innovation and adaptability. (Grow from 24 billable hours/week at end of Year 1 to 35 hours/week in Year 3).
-Citizenship - To be an intellectual and social asset to the community and environment. (Contribute 5 hours per week as volunteer, contribute 5% of pretax profits to charity).
+2. __Growth__ - To grow the business at a rate that is both challenging and manageable, leading the market with innovation and adaptability. (Grow from 24 billable hours/week at end of Year 1 to 35 hours/week in Year 3).
+3. __Citizenship__ - To be an intellectual and social asset to the VR and AR community and environment.
 
