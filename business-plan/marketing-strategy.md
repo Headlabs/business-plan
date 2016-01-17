@@ -6,7 +6,7 @@
   - Sample Applications Demonstrating Various Best Practices 
   - App Determining Best Suitable Gaming Computer For Developers (not an easy thing to do, but can be useful for devs)
 
-### Personal Reviewsy
+### Personal Reviews
 - Find apps, write detailed reviews about their application, the potential future of their business in relation to their VR app, etc. Essentially get under their skin. Once review is complete, privately send them the review for free.
 
 # 
