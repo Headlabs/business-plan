@@ -4,6 +4,7 @@
 - Build side projects and offer for free to the public. 
   - Best Practices Guide
   - Sample Applications Demonstrating Various Best Practices 
+  - Product Ideas - Even if they're sketches and Medium posts, just to get the ideas out there.
   - App Determining Best Suitable Gaming Computer For Developers (not an easy thing to do, but can be useful for devs)
   - Job search board for companies looking to hire VR developers/designers
 
