@@ -6,3 +6,5 @@
 [What Bankers Look for in a Business Plan](http://www.entrepreneur.com/article/80170)
 [https://medium.com/@moeamaya/agency-year-1-make-all-the-mistakes-dde0abbe27b7#.nbbgo4jgx](https://medium.com/@moeamaya/agency-year-1-make-all-the-mistakes-dde0abbe27b7#.nbbgo4jgx)
 
+[How to figure out Startup Capital](http://smallbusiness.chron.com/estimate-start-up-capital-starting-business-1859.html)
+
