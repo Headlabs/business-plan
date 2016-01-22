@@ -5,7 +5,7 @@ The actual business plan is in the [/business-plan](/business-plan) and the refe
 
 To Do:  
 - [X] [Executive Summary](/business-plan/executive-summary.md)  
-- [ ] Business Concept  
+- [X] Business Concept  
 - [ ] Financing Needs  
 - [ ] Markets  
 - [X] [Products and Services](/business-plan/products-and-services.md)  
