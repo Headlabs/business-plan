@@ -3,6 +3,9 @@ This is our 5 year plan beginning 2016.
 
 
 # 2016
+- [ ] Connect with 1000+ VR companies/developers about our product.
+- [ ] Reach 500 stars in our Best Practices Guide
+
 
 # 2017
 - [ ] By Q1 2017 to be #1 in Google Search Results for "vr design."
