@@ -4,7 +4,7 @@ This is our 5 year plan beginning 2016.
 
 # 2016
 - [ ] Connect with 1000+ VR companies/developers about our services.
-- [ ] Reach 500 stars in our Best Practices Guide
+- [ ] Reach 500 stars in our Best Practices Guide on Github.
 
 
 # 2017
