@@ -10,4 +10,14 @@ Josh and Jason manage Headlabs as a partnership, performing business and technic
 We will be both be located remotely, respectively in Pittsburgh, PA and Athens, GA.
 
 ### Company Ownership
-Headlabs is organized as a partnership among the two partners of Joshua G. Aronoff and Jason Tanner. Joshua G. Aronoff will handle business duties and Jason Tanner will handle technical duties.
+Headlabs is organized as a partnership among the two partners of Joshua G. Aronoff and Jason Tanner. Joshua G. Aronoff will handle business duties and Jason Tanner will handle technical duties. Other roles such as strategy, customer and product development, sales, and QA testing will be shared among both people.
+
+
+### Legal structure and ownership
+Headlabs is filed as a C Corporation. Both Jason and Josh own a percentage of the company based off of an initial founding percentage followed up by work-equity.
+
+### Locations and facilities
+Currently Headlabs is a remote-only work space thus requires no additional facilities or locations.
+
+### Mission Statement
+We merge virtual reality with the real-world.
