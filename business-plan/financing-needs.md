@@ -1,6 +1,6 @@
 ## Financing Needs
 
-Headlabs will require an initial $5859 in investment. Costs can be broken down as follows. 
+Headlabs will require an initial $6052 in investment. Costs can be broken down as follows. 
 
 Cost | Item
 ------------ | -------------
