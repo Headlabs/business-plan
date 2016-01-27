@@ -14,7 +14,7 @@ Headlabs is organized as a partnership among the two partners of Joshua G. Arono
 
 
 ### Legal structure and ownership
-Headlabs is filed as a C Corporation. Both Jason and Josh own a percentage of the company based off of an initial founding percentage followed up by work-equity.
+Headlabs is filed as a C-Corporation. Both Jason and Josh own a percentage of the company based off of an initial founding percentage followed up by work-equity. Salaries and expenses will be taken from the company checking account.
 
 ### Locations and facilities
 Currently Headlabs is a remote-only work space thus requires no additional facilities or locations.
