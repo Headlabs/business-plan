@@ -16,10 +16,10 @@ This is our 5 year plan beginning 2016.
 
 # 2018
 - [ ] Began development on two major side projects related to AR.
-- [ ] Release first app for AR platforms.
+- [ ] Release first app for AR platform.
 
 
 # 2019
-- [ ] Reach $1 million in sales from app.
+- [ ] Reach $1 million in sales from apps.
 
 # 2020
