@@ -20,6 +20,7 @@ This is our 5 year plan beginning 2016.
 
 
 # 2019
-- [ ] Reach $1 million in sales from apps.
+- [ ] Reach $10 million in sales from apps.
 
 # 2020
+- [ ] Aquire a competing consulting company. 
