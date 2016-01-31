@@ -43,7 +43,8 @@ The following are some goals and objectives for Headlabs for the next 5 years.
 # 2017
 - [ ] By Q1 2017 to be #1 in Google Search Results for "vr design"
 - [ ] Be invited to speak at top VR/AR conference on design and/or development.
-- [ ] Complete development and release of first app.
+- [ ] Complete development and release of first app, Mozart.
+- [ ] Begin development of second app intended for VR/AR or supporting role of VR/AR (i.e. ads idea)
 
 # 2018
 - [ ] Began development on two major side projects related to AR.
