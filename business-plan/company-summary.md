@@ -20,4 +20,4 @@ Headlabs is filed as a C-Corporation. Both Jason and Josh own a percentage of th
 Currently Headlabs is a remote-only work space thus requires no additional facilities or locations.
 
 ### Mission Statement
-We merge virtual reality with the real-world.
+We merge virtual reality with the real-world. We help companies design and improve their Virtual Reality user interfaces and experiences.
